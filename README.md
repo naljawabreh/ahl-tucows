@@ -9,10 +9,10 @@ Tucows Interview Exercise DevOps
 
 ## Tasks
 
-- Provide Terraform code which deploys a 2 tier app with the following requirements.
- * Must include API and Database servers
- * Must be deployed within a specific region
- * Must follow VPC best practices
- * Only web ports could be exposed
- * Must have logging and alerting provided
-- Include terraform plan output to confirm a succesfull execution plan creation
+1. Provide Terraform code which deploys a 2 tier app with the following requirements.
+  * Must include API and Database servers
+  * Must be deployed within a specific region
+  * Must follow VPC best practices
+  * Only web ports could be exposed
+  * Must have logging and alerting provided
+2. Include terraform plan output to confirm a succesfull execution plan creation
