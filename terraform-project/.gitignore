@@ -1,0 +1,10 @@
+.git/
+.terraform/
+*.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+
+output*.txt
+logs.txt
+*.txt
