@@ -26,6 +26,7 @@ variable "password" {
   description = "The pass to the database."
   type        = string
   default     = "StrongPassword"
+  sensitive   = true
 }
 
 variable "email" {
